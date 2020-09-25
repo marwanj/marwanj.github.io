@@ -1,10 +1,10 @@
 //--------- Start Banner Area -------------//
 .home-banner-area {
-    background: url(../img/banner-bg.jpg) center;
+    background: url(../img/banner-bg.png) center;
     background-size: cover;
     .fullscreen {
         @media (max-width: 769px) {
-            height: 600px!important;
+            height: 400px!important;
         }
     }
 }
